@@ -1,0 +1,12 @@
+name: WeaponEnchanter
+version: 1.0.0
+main: com.weaponenchanter.WeaponEnchanter
+api-version: '1.21'
+author: YourName
+description: Add custom effects to any weapon
+
+commands:
+  weaponeffect:
+    description: Add effects to your weapon
+    usage: /weaponeffect <effect>
+    aliases: [we, weffect]
