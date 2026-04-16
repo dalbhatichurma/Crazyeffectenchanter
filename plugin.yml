@@ -2,7 +2,7 @@ name: WeaponEnchanter
 version: 1.0.0
 main: com.weaponenchanter.WeaponEnchanter
 api-version: '1.21'
-author: YourName
+author: MathTeacher
 description: Add custom effects to any weapon
 
 commands:
